@@ -1,4 +1,4 @@
-# Intro to Data Science and Products
+# Week 1: Introductio to Data Products
 
 A data application acquires its value from the data itself, and creates more data as a result. It’s not just an application with data; it’s a data product. Data science enables the creation of data products.
 
@@ -10,4 +10,5 @@ And it’s not just companies using their own data, or the data contributed by t
 
 * Understand what a data product consists of
 * Know various examples of real world data products
+* Know how to design and build great data products
 
